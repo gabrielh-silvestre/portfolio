@@ -1,4 +1,5 @@
 import { Greetings } from '../Greetings';
+import { PersonalResume } from '../PersonalResume';
 import { Container, ContentContainer } from './styles';
 
 export function About() {
@@ -6,6 +7,7 @@ export function About() {
     <Container>
       <ContentContainer>
         <Greetings />
+        <PersonalResume />
       </ContentContainer>
     </Container>
   );
