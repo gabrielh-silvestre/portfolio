@@ -1,10 +1,10 @@
 import tw from 'tailwind-styled-components';
 
 export const Container = tw.article`
+  pt-20
+
   text-white
   font-DM
-
-  bg-gray-400
 `;
 
 export const ContentContainer = tw.div`

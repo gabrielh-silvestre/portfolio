@@ -15,9 +15,7 @@ export const Container = tw.section`
 export const Title = tw.h2`
   pb-6
 
-  text-white
   text-3xl
-  font-DM
   font-bold
 `;
 
@@ -25,5 +23,4 @@ export const Description = tw.p`
   text-gray
   text-lg
   text-center
-  font-DM
 `;

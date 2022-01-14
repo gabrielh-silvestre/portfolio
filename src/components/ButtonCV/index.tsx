@@ -6,7 +6,6 @@ const Button = tw.button`
   py-3
 
   text-dark
-  font-DM
   text-sm
   font-medium
 

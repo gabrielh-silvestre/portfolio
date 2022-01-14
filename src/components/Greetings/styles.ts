@@ -14,9 +14,7 @@ export const GreetingsContainer = tw.div`
 export const GreetingsTitle = tw.h1`
   pb-6
 
-  text-white
   text-4xl
-  font-DM
   font-bold
 `;
 
@@ -25,6 +23,5 @@ export const GreetingsParagraph = tw.p`
 
   text-gray
   text-lg
-  font-DM
   font-medium
 `;
