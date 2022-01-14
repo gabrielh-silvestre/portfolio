@@ -4,7 +4,6 @@ export const Container = tw.section`
   max-w-3xl
 
   mx-auto
-  mt-20
 
   flex
   flex-col
